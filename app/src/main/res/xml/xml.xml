@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>admob_app_id</key>
+        <value>ca-app-pub-3940256099942544~3347511713</value>
+    </entry>
+    <entry>
+        <key>admob_banner_id</key>
+        <value>ca-app-pub-3940256099942544/6300978111</value>
+    </entry>
+    <entry>
+        <key>admob_interstitial_id</key>
+        <value>ca-app-pub-3940256099942544/1033173712</value>
+    </entry>
+    <entry>
+        <key>admob_native_id</key>
+        <value>ca-app-pub-3940256099942544/2247696110</value>
+    </entry>
+</defaultsMap><!-- END xml_defaults -->

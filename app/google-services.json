@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95392016572",
+    "project_id": "newfansandroidapp",
+    "storage_bucket": "newfansandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95392016572:android:d1490fe859f49a7b91c8b9",
+        "android_client_info": {
+          "package_name": "com.new.fans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95392016572-4tvcs09gpjqhg4o4slbrpi1r83ollp6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJJnKWXnbatLBBj05okcA2MBCc4dZys0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95392016572-4tvcs09gpjqhg4o4slbrpi1r83ollp6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
